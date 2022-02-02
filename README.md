@@ -21,7 +21,8 @@ npm install --save-dev @emotion/babel-preset-css-prop
 ```
 touch .babelrc
 ```
-```:.babelrc
+```
+//.babelrc
 {
   "presets": [
     "next/babel",
@@ -29,7 +30,8 @@ touch .babelrc
   ]
 }
 ```
-```:tsconfig.json
+```
+//tsconfig.json
 {
   "compilerOptions": {
     "jsxImportSource": "@emotion/react",
@@ -43,8 +45,8 @@ touch .babelrc
 
 - global.css
 
-- _document.tsx
+- _document.tsx  
 Noto Sans JP (Regular 400)を追加
 
-- その他
+- その他  
 log関数を作成
