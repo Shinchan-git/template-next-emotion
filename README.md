@@ -49,4 +49,5 @@ touch .babelrc
 Noto Sans JP (Regular 400)を追加
 
 - その他  
-log関数を作成
+log関数を作成  
+Footerを作成し_app.tsxに追加
