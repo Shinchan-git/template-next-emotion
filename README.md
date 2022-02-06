@@ -3,6 +3,7 @@
 npx create-next-app project-name --example https://github.com/Shinchan-git/template-next-emotion
 ```
 
+#設定内容
 - Next.js
 ```
 npx create-next-app project-name
