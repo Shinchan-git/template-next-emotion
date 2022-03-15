@@ -48,6 +48,9 @@ touch .babelrc
   }
 }
 ```
+```
+npm install @babel/core
+```
 
 - global.css
 
